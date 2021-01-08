@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Akshat Gopal
+Current university student enrolled in computer science engineering with 1-year experience in coding.
+A beginner who loves using technologies like JavaScript, Node.JS, MongoDB and believes in continuous learning new and hustle.
 
-<!--
-**akshatgopal/akshatgopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: MongoDB / Node.JS / Express JS / JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React JS 
+- 🌱 I’m currently learning Full Stack Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akshatgopal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akshat-gopal-614999198/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GopalAkshat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/500px.svg' alt='500px' height='40'>](https://500px.com/p/akshatgopal123)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgopal)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatgopal&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/akshatgopal)  
