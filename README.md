@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Akshat Gopal
 Current university student enrolled in computer science engineering with 1-year experience in coding.
-A beginner who loves using technologies like JavaScript, Node.JS, MongoDB and believes in continuous learning new and hustle.
+A beginner who loves using technologies like JavaScript, Node.JS, MongoDB and believes in continuous learning new stuff and hustle.
 
 
 Skills: MongoDB / Node.JS / Express JS / JavaScript / HTML / CSS
