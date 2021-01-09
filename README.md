@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Akshat Gopal
-Current university student enrolled in computer science engineering with 1-year experience in coding.
+Current university student enrolled in Computer Science Engineering with 2 year experience in coding.
 A beginner who loves using technologies like JavaScript, Node.JS, MongoDB and believes in continuous learning new stuff.
 
 
